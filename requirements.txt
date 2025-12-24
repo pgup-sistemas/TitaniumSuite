@@ -1,0 +1,17 @@
+customtkinter
+qrcode
+pillow
+pypdf2
+cryptography
+pyzipper
+google-api-python-client
+google-auth-oauthlib
+google-auth-httplib2
+pandas
+pdf2image
+pytesseract
+opencv-python
+
+# Novos módulos
+psutil>=5.9.0         # Para dashboard (uso de disco, memória)
+pyperclip>=1.8.0       # Para copiar chaves de ativação
